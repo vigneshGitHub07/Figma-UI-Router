@@ -1,0 +1,347 @@
+.optacredit{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.optacredit{
+  background-color: #FFFFFF;
+  border-bottom-right-radius: 25px solid #1E9A5C;
+}
+.dassoptacredit{
+  color: #1E9A5C;
+  font-weight: bold;
+  text-align: center;
+}
+.dassuserdetails{
+  text-align: center;
+}
+.homeonerow{
+  text-align: center;
+  justify-content: center;
+  background: linear-gradient(88.74deg, #18A183 44.59%, #20B26B 91.76%) ;
+  Height :670px;
+  width: 100%;
+}
+.optacreditH{
+  color: #1E9A5C;
+  font-weight: bold;
+ }
+ .pageone{
+   
+  background: linear-gradient(88.74deg, #18A183 44.59%, #20B26B 91.76%) ;
+  Height :710px;
+
+ }
+::placeholder{
+  color: #000000;
+  font-family: Futura;
+  font-size: 13px;
+opacity: 0.4;
+}
+.inputfiled {
+  height: 40px;
+}
+ .loginPage{
+   margin-top: 10%;
+   margin-left: 40px;
+   margin-right: 40px;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+ }
+ .login{
+  font-family: Futura !important;
+  font-size: 25px;
+  line-height: 58px;
+  color: #FFFFFF;
+  opacity: 0.9;
+ }
+ .forgetP{
+  font-family: Futura;
+  font-size: 15px;
+  line-height: 18px;
+  color: #FFFFFF;
+ }
+ .loginbtn{
+  background: linear-gradient(277.91deg, #20B26B -42.84%, #19BF9A 125.15%);
+ border-color: #18A183;
+ border-style: none;
+ border-radius: 6px;
+ color: #FFFFFF;
+ width: 120px;
+ height: 30px;
+ }
+.ajesh{
+  color: #FFFFFF;
+  font-family: Futura;
+font-size: 15px;
+}
+.bellicons{
+  color: #FFFFFF;
+}
+.clrwhite{
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+.clrwhite:hover{
+  background: #11745E;
+width: 220px;
+  color: #FFFFFF !important;
+  opacity: 2 ;
+}
+.bell{
+  /* border: 0.1px solid #FFFFFF; */
+  opacity: 0.5;
+  /* background: #FFFFFF; */
+  /* border-radius: 10px; */
+}
+.footer{
+  color: #FFFFFF;
+  font-size: 11px;
+  line-height: 2px;
+  opacity: 0.7;
+  padding-top: 120px;
+}
+.logout{
+  font-size: 15px;
+  color: #FFFFFF;
+  }
+  .hometwoicons{
+    font-size: 20px;
+    color: rgb(73, 73, 243);
+  }
+  .hometwo{
+    justify-content: center;
+    text-align: center;
+    Height :636px;
+    border:0.1px solid #e7e5e5 ;
+    box-shadow:2px 2px #e7e5e5  ;
+    padding: 0px !important;
+
+  }
+  .hometwoajesh{
+    font-family: Futura;
+font-size: 15px;
+  }
+  .hometwouserdetails{
+    border-bottom: 0.5px solid #e7e5e5;  
+  }
+  .personalloan{
+    padding-top: 20px;
+    text-align: left;
+    font-family: Futura;
+font-size: 13px;
+line-height: 12px;
+padding-left: 13px;
+  }
+  .loan{
+    color: #000000;
+opacity: 0.5;
+  }
+  .inprogress{
+    color: #FFB22A;
+  opacity: 7.9;  
+font-family: Futura;
+font-size: 13px;
+padding-left: 140px;
+  }
+  .reqloanamount{
+    background: #59CB93;
+    color: #FFFFFF;
+    font-family: Futura;
+font-size: 13px;
+text-align: left;
+padding-left: 13px;
+}
+.hometwodropdown{
+  border-bottom: 1px solid #e7e5e5;
+  text-align: left;
+  padding-left: 13px;
+padding-bottom: 10px;
+}
+.leftarrow{
+  text-align: right;
+  justify-content: right !important;
+}
+.homethreebtn{
+  background: linear-gradient(277.91deg, #20B26B -42.84%, #19BF9A 125.15%);
+box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.21);
+border-radius: 6px;
+border: none;
+color: #FFFFFF;
+}
+.homethreebutton{
+justify-content: right;
+text-align: right;
+margin-right: 20px;
+
+}
+.details{
+  background: #E5E5E5;
+
+}
+.detailsbtn{
+  border: none;
+
+background: #E5E5E5;
+padding: 5px;
+
+}
+.detailsbtn:hover{
+  color: #1E9A5C;
+border-bottom:2px solid #1E9A5C ;
+}
+.table{
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
+}
+.tab{
+  border: 1px solid rgba(0, 0, 0, 0.1); 
+  box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.1);
+border-radius: 14px;
+}
+.tablecol{
+  font-family: Futura;
+font-size: 10px;
+line-height: 15px;
+}
+.tableP{
+  padding-left: 10px;
+  padding-top: 6px;
+  font-family: Futura;
+font-size: 15px;
+}
+.colhead{
+  color: #50A48D;
+}
+.gendralinfo{
+  justify-content: space-around;
+}
+Link{
+  color: #FFFFFF !important;
+}
+.gendralinfotwo{
+  line-height: 29px;
+}
+.colbody{
+  line-height: 19px;
+}
+.product{
+  justify-content: space-between;
+}
+.personalloan{
+  font-weight: 500;
+font-size: 18px;
+}
+.productedit{
+  font-family: Futura;
+font-size: 13px;
+line-height: 19px;
+color: #444444;
+}
+.productplus{
+  color: #20B26B ;
+
+}
+.productmaximum{
+  font-size: 13px;
+line-height: 18px;
+font-family: Roboto;
+color: #1E9A5C;
+text-align: center;
+}
+.productmaximumvalue{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 22px;
+color: #2D2D2D;
+text-align: center;
+}
+.amountbox{
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+border-radius: 9px;
+justify-content: center;
+padding-top: 30px;
+height: 120px;
+}
+.threebox{
+  justify-content: space-between;
+}
+.forpadding{
+  margin-right: 30px;
+  margin-top: 20px;
+}
+.forleftborder{
+  margin-top: 20px;
+  border-right: 1px solid  #E3E3E3;
+}
+.feeset{
+  justify-content: space-between;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 9px;
+
+}
+.coleaderdetails{
+  border-bottom: 1px solid #E3E3E3;
+  text-align: center;
+}
+.ashikan{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+color: #000000;
+}
+.coleaderBlackClr{
+  
+color: #666666;
+
+font-family: Futura;
+font-size: 13px;
+line-height: 16px;
+}
+.box{
+  padding-top: 30px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+border-radius: 12px;
+padding-bottom: 30px;
+}
+.coleadercol{
+  border-right: 1px solid rgb(245, 241, 241);
+}
+.forline{
+ padding-right: 8px;
+  border-right: 1px solid rgb(133, 131, 131);
+}
+.yesbtn{
+  background: #1CA978;
+border-radius: 10px;
+border-style: none;
+font-size: 13px;
+}
+.fortexalineright{
+  text-align: right;
+}
+.valuedetails{
+  
+background: linear-gradient(180deg, #E8E8E8 17.04%, rgba(232, 232, 232, 0) 100%);
+opacity: 0.2;
+border: 1px solid #000000;
+/* box-sizing: border-box; */
+border-radius: 6px;
+color: #000000;
+padding-left: 10px;
+/* height: 30px; */
+font-size: 13px;
+height: 30px;
+padding-top: 5px;
+}
+
+
+
+
+
+
